@@ -10,8 +10,8 @@ Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou estudante 
 - ⚡ Curiosidades: Amo filmes e séries, e jogos competitivos;
 
 
-### GEstatísticas do GitHub
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ninamarq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninamarq&layout=compact&langs_count=7&theme=dark"/>
+### Estatísticas do GitHub
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ninamarq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninamarq&layout=compact&langs_count=7&theme=dark"/>
 
 ### Contato e Redes
 <div>
