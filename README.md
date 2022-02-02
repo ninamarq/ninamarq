@@ -15,6 +15,6 @@ Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou estudante 
 
 ### Contato e Redes
 <div>
-  <a href = "mailto:marina.marqueso@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marina.marqueso@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marina-marqueso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
