@@ -1,6 +1,6 @@
 ### Olá! / Hello There! 🤙
 
-Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou estudante de Desenvolvimento Web na Trybe 🚀
+Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou Desenvolvedora Front-End, estudante de Desenvolvimento Web na Trybe 🚀
 
 - 🌱 Estou estudando tecnologias de BackEnd atualmente, como SQL e começarei Node.js em breve;
 - 👯 Procurando sempre melhorar como pessoa, ser uma boa companheira de trabalho e ótima desenvolvedora;
