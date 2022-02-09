@@ -1,7 +1,4 @@
-<div
-  text-align="center"     
->
-  <h1>Olá! / Hello There! 🤙</h1>
+  <h1 text-align="center">Olá! / Hello There! 🤙</h1>
 
   <p>
     Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou Desenvolvedora Front-End, estudante de Desenvolvimento Web na Trybe 🚀
