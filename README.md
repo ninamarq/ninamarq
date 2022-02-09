@@ -1,7 +1,6 @@
-  <h1 text-align="center">Olá! / Hello There! 🤙</h1>
+Olá! / Hello There! 🤙
 
-  <p>
-    Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou Desenvolvedora Front-End, estudante de Desenvolvimento Web na Trybe 🚀
+Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou Desenvolvedora Front-End, estudante de Desenvolvimento Web na Trybe 🚀
 
   - 🌱 Estou estudando tecnologias de BackEnd atualmente, como SQL e começarei Node.js em breve;
   - 👯 Procurando sempre melhorar como pessoa, ser uma boa companheira de trabalho e ótima desenvolvedora;
@@ -9,7 +8,6 @@
   - 📫 Contato: marina.marqueso@outlook.com;
   - 😄 Pronomes: Ela/Dela;
   - ⚡ Curiosidades: Amo filmes e séries, e jogos competitivos;
-  </p>
 
 
   ### Estatísticas do GitHub
@@ -20,4 +18,3 @@
     <a href = "mailto:marina.marqueso@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marina-marqueso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
-</div>
