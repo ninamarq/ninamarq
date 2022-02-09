@@ -1,4 +1,4 @@
-Olá! / Hello There! 🤙
+### Olá! / Hello There! 🤙
 
 Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou Desenvolvedora Front-End, estudante de Desenvolvimento Web na Trybe 🚀
 
