@@ -2,7 +2,7 @@
 
 Me chamo Marina Marques, sou de Minas Gerais, Brasil e atualmente sou Desenvolvedora Front-End, estudante de Desenvolvimento Web na Trybe 🚀
 
-  - 🌱 Estou estudando tecnologias de BackEnd atualmente, SQL, Node.js e começarei TypeScript em breve;
+  - 🌱 Estou estudando tecnologias de BackEnd, aprofundando em POO e TypeScript atualmente;
   - 👯 Procurando sempre melhorar como pessoa, ser uma boa companheira de trabalho e ótima desenvolvedora;
   - 💬 Se tiver qualquer dúvida, entre em contato, vou gostar muito de interagir e conversar com você;
   - 📫 Contato: marina.marqueso@outlook.com;
