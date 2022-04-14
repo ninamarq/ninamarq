@@ -13,7 +13,7 @@
 
 - 📫 How to reach me *marina.marqueso@outlook.com*
 
-- ⚡ Fun fact *Valorant and League of Legends Player (not too good)*
+- ⚡ Fun fact *Valorant and League of Legends Player (not so good)*
 
 
 ### Education
