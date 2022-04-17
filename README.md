@@ -48,4 +48,4 @@
 </div>
 
 
-<h1> Thanks 🌠 </h1>
+<h1> ✨ Thanks ✨ </h1>
