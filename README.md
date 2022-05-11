@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at *Dopster.io*
 
-- 🌱 I’m currently learning *backend technologies (POO, SOLID, Node.js, express)*
+- 🌱 I’m currently learning *backend technologies (MongoDB, POO, SOLID)*
 
 - 🤝 I’m looking to help *my co-workers and improve as a developer*
 
