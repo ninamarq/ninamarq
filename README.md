@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina Marques</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working at *Dopster.io*
+- 🔭 I’m currently working at *Grafeno*
 
 - 🌱 I’m currently learning *backend technologies (MongoDB, POO, SOLID)*
 
