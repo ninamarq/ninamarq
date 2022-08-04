@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at *Grafeno*
 
-- 🌱 I’m currently learning *backend technologies (MongoDB, POO, SOLID)*
+- 🌱 I’m currently learning *computer science (Python, Algorithms and Pandas)*
 
 - 🤝 I’m looking to help *my co-workers and improve as a developer*
 
