@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ninamarq](github.com/ninamarq)
 
-- 💬 Ask me about *React, Javascript and CSS*
+- 💬 Ask me about *React, Javascript and Typescript*
 
 - 📫 How to reach me *marina.marqueso@outlook.com*
 
