@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina Marques</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/grafenodigital/mycompany/">Grafeno</a>
+- 🔭 I’m currently working at <a href="https://www.mundiale.com.br/">Mundiale</a>
 
 - 🌱 I’m currently looking forward to increase my knowledge to *get better and become a better developer.*
 
