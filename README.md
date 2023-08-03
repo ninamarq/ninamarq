@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marina Marques</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate software developer from Brazil</h3>
+<h4 align="center">ps: frontend has my heart ❤️ </h4>
 
 - 🔭 I’m currently working at <a href="https://www.mundiale.com.br/">Mundiale</a>
 
