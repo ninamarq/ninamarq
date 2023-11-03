@@ -4,7 +4,7 @@
 🔭 I’m currently working at Mundiale<br>
 🌱 I’m currently looking forward to increase my knowledge to get better and become a better developer.<br>
 🤝 I’m looking to help my co-workers and improve as a developer<br>
-👨‍💻 All of my projects are available at github.com/ninamarq<br>
+👨‍💻 Learning *Golang*
 💬 Ask me about React, Javascript and Typescript<br>
 📫 How to reach me marina.marqueso@outlook.com<br>
 ⚡ Fun fact Valorant and League of Legends Player (not so good)
