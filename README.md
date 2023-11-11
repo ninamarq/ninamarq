@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 💙 My name is *Marina Marques* and I'm working as a Software Developer!<br>
-🔭 I’m currently working at Mundiale<br>
+🔭 I’m currently working at <a href="https://www.mundiale.com.br/">Mundiale</a> and building something excited 🚀 (coming soon)<br>
 🌱 I’m currently looking forward to increase my knowledge to get better and become a better developer.<br>
 🤝 I’m looking to help my co-workers and improve as a developer<br>
 👨‍💻 Learning *Golang*
