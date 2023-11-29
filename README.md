@@ -79,12 +79,11 @@
 
 ###
 
-<div align="left" style="display: flex; align-items: center; gap: 8px">
+<div align="center" style="display: flex; align-items: center; gap: 8px">
   <a href="https://www.linkedin.com/in/marina-marqueso/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="marina.marqueso@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ninamarq.ninamarq&"  />
 </div>
