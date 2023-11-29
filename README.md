@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋! My name is Marina and I'm a software developer, from Brazil</h2>
 
-###  
-  <img align="right" width="200" height="200" src="https://media4.giphy.com/media/Ut9IfYd8U1C0CNQi76/200.gif"  />
-    
+###      
   ```javascript
     const Marina Marques = {
       name = "Marina Marques",
@@ -14,10 +12,10 @@
       learning = "Chrome extensions and Golang"
     }
   ```
-
 ###
 
 <br clear="both">
+<img align="right" width="200" height="200" src="https://media4.giphy.com/media/Ut9IfYd8U1C0CNQi76/200.gif"  />
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
