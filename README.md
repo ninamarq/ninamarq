@@ -1,12 +1,25 @@
 <h2 align="center">Hi 👋! My name is Marina and I'm a software developer, from Brazil</h2>
 
+###  
+  <img align="right" width="200" height="200" src="https://media4.giphy.com/media/Ut9IfYd8U1C0CNQi76/200.gif"  />
+    
+  ```javascript
+    const Marina Marques = {
+      name = "Marina Marques",
+      birth = "January 30th",
+      address = "Bragança, Portugal",
+      hobbies = ["Videogames", "Music", "Sport", "Hiking"],
+      current_company = "Mundiale",
+      stack = "Software developer",
+      learning = "Chrome extensions and Golang"
+    }
+  ```
+
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/wch_imF_RLUAAAAC/lofi.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
@@ -64,9 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
 </div>
 
-###
-
-<br clear="both">
 
 ###
 
@@ -79,9 +89,9 @@
 
 ###
 
-## Contact me on Linkedin or send me an email! 📫🌠
+<h2 align="center"> Contact me on Linkedin or send me an email! 📫🌠</h2>
 
-<div align="center" style="display: flex; align-items: center; gap: 8px">
+<div align="center">
   <a href="https://www.linkedin.com/in/marina-marqueso/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
