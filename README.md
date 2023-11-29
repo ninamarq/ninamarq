@@ -2,15 +2,15 @@
 
 ###      
   ```javascript
-    const Marina Marques = {
-      name = "Marina Marques",
-      birth = "January 30th",
-      address = "Bragança, Portugal",
-      hobbies = ["Videogames", "Music", "Sport", "Hiking"],
-      current_company = "Mundiale",
-      stack = "Software developer",
-      learning = "Chrome extensions and Golang"
-    }
+      const Marina Marques = {
+        name: "Marina Marques",
+        birth: "January 30th",
+        address: "Bragança, Portugal",
+        hobbies: ["Videogames", "Music", "Sport", "Hiking"],
+        current_company: "Mundiale",
+        stack: "Software developer",
+        learning: "Chrome extensions and Golang"
+      }
   ```
 ###
 
