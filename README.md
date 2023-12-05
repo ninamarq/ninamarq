@@ -2,7 +2,7 @@
 
 ###      
   ```javascript
-      const Marina Marques = {
+      const MarinaMarques = {
         name: "Marina Marques",
         birth: "January 30th",
         address: "Bragança, Portugal",
