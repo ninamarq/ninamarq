@@ -1,14 +1,14 @@
-<h2 align="center">Hi 👋! My name is Marina and I'm a software developer, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is Marina and I'm a Frontend Software Engineer, from Brazil</h2>
 
 ###      
   ```javascript
       const MarinaMarques = {
         name: "Marina Marques",
         birth: "January 30th",
-        address: "Bragança, Portugal",
+        address: "Belo Horizonte, Brazil",
         hobbies: ["Videogames", "Music", "Sport", "Hiking"],
-        current_company: "Mundiale",
-        stack: "Software developer",
+        current_company: "TRACTIAN",
+        stack: "Frontend Software Engineer",
         learning: "Chrome extensions and Golang"
       }
   ```
@@ -73,6 +73,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-2048x2046-dl3neb73.png" height="30" alt="ubuntu logo"  /> 
 </div>
 
 
